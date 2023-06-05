@@ -12,7 +12,7 @@ programa
 		caracter sexo = 'M'
 		logico temGato = verdadeiro
 
-		escreva("Olá, meu nome é " ,nome, " ,tenho " ,idade, " anos, tenho " ,altura, " de altura, sou do sexo " ,sexo, " e o fato de eu ter um gato é " ,temGato, "")
+		escreva("Olá, meu nome é " ,nome, " ,tenho " ,idade, " anos, " ,altura, " de altura, sou do sexo " ,sexo, " e o fato de eu ter um gato é " ,temGato, "")
 		
 	}
 }
@@ -21,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 71; 
+ * @POSICAO-CURSOR = 187; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
